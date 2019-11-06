@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/751db7a1318b05819337e0f8a3319510/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/viet/.gradle/caches/transforms-2/files-2.1/10da8c754d199fef9c3b69d326ec9c86/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] /home/viet/.gradle/caches/transforms-2/files-2.1/b6875daf21236d083aac8c2bd301f1a7/recyclerview-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/9197bf70941c7a72e65823252372485d/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/c965d38322bbea95f477038c283b499b/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/48e86f040cbd14b2638337e1fb2762fb/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/4ee53cec0b98383d1882cf3472f8ab43/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/4e0acea0bee1b78c71a459e537822235/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/91e77c99342cf4ed658bfa329219d9d6/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/29923555e2886fda8364c82bec5dd8ee/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/add28c4a0e34c4cd509398f4b6ccff99/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/f42868f055ac56be3be6f8b4cd849a98/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/817f5f994f467f8f015ac529db244e2e/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/acc8b225d4233ab1dc69def4db871c64/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/f0ec059082e1d8674d8ce941506a6abb/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/8e16a1ccccc64c375239a31c29791a37/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/0a83de722e198f2c0a543e2113a96f85/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/2ede6a769c88a5473d18a9a68f3dbf2f/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/779c85bb665f1cfaf74ce22f1d8ee281/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/98ebd0d442e30e529dcfc18ded4a9b2a/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/f32cbf65ebbb2aa2d3fea165f3fefec8/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/67024985f4d0dd7508ec34c77c8caa32/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml
+		ADDED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml
+		ADDED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/viet/.gradle/caches/transforms-2/files-2.1/10da8c754d199fef9c3b69d326ec9c86/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/viet/.gradle/caches/transforms-2/files-2.1/10da8c754d199fef9c3b69d326ec9c86/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/817f5f994f467f8f015ac529db244e2e/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/817f5f994f467f8f015ac529db244e2e/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/f0ec059082e1d8674d8ce941506a6abb/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/f0ec059082e1d8674d8ce941506a6abb/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/817f5f994f467f8f015ac529db244e2e/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.lesson5_recyclerview.MainActivity
+ADDED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml
+INJECTED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/751db7a1318b05819337e0f8a3319510/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/751db7a1318b05819337e0f8a3319510/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/viet/.gradle/caches/transforms-2/files-2.1/10da8c754d199fef9c3b69d326ec9c86/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/viet/.gradle/caches/transforms-2/files-2.1/10da8c754d199fef9c3b69d326ec9c86/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] /home/viet/.gradle/caches/transforms-2/files-2.1/b6875daf21236d083aac8c2bd301f1a7/recyclerview-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] /home/viet/.gradle/caches/transforms-2/files-2.1/b6875daf21236d083aac8c2bd301f1a7/recyclerview-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/9197bf70941c7a72e65823252372485d/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/9197bf70941c7a72e65823252372485d/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/c965d38322bbea95f477038c283b499b/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/c965d38322bbea95f477038c283b499b/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/48e86f040cbd14b2638337e1fb2762fb/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/48e86f040cbd14b2638337e1fb2762fb/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/4ee53cec0b98383d1882cf3472f8ab43/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/4ee53cec0b98383d1882cf3472f8ab43/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/4e0acea0bee1b78c71a459e537822235/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/4e0acea0bee1b78c71a459e537822235/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/91e77c99342cf4ed658bfa329219d9d6/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/91e77c99342cf4ed658bfa329219d9d6/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/29923555e2886fda8364c82bec5dd8ee/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/29923555e2886fda8364c82bec5dd8ee/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/add28c4a0e34c4cd509398f4b6ccff99/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/add28c4a0e34c4cd509398f4b6ccff99/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/f42868f055ac56be3be6f8b4cd849a98/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/f42868f055ac56be3be6f8b4cd849a98/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/817f5f994f467f8f015ac529db244e2e/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/817f5f994f467f8f015ac529db244e2e/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/acc8b225d4233ab1dc69def4db871c64/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/acc8b225d4233ab1dc69def4db871c64/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/f0ec059082e1d8674d8ce941506a6abb/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/f0ec059082e1d8674d8ce941506a6abb/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/8e16a1ccccc64c375239a31c29791a37/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/8e16a1ccccc64c375239a31c29791a37/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/0a83de722e198f2c0a543e2113a96f85/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/viet/.gradle/caches/transforms-2/files-2.1/0a83de722e198f2c0a543e2113a96f85/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/2ede6a769c88a5473d18a9a68f3dbf2f/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/2ede6a769c88a5473d18a9a68f3dbf2f/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/779c85bb665f1cfaf74ce22f1d8ee281/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/779c85bb665f1cfaf74ce22f1d8ee281/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/98ebd0d442e30e529dcfc18ded4a9b2a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/98ebd0d442e30e529dcfc18ded4a9b2a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/f32cbf65ebbb2aa2d3fea165f3fefec8/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/f32cbf65ebbb2aa2d3fea165f3fefec8/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/67024985f4d0dd7508ec34c77c8caa32/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/viet/.gradle/caches/transforms-2/files-2.1/67024985f4d0dd7508ec34c77c8caa32/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml
+INJECTED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml
+		ADDED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml
+		ADDED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/viet/AndroidStudioProjects/Lesson5_RecyclerView/app/src/main/AndroidManifest.xml
