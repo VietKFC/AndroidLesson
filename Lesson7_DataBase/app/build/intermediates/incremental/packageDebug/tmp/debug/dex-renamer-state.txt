@@ -1,0 +1,4 @@
+#Thu Nov 21 17:52:55 ICT 2019
+base.0=/home/viet/AndroidStudioProjects/Lesson7_DataBase/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
